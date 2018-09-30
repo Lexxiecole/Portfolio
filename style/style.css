@@ -1,0 +1,62 @@
+
+#navbar {
+    text-align: center;
+}
+
+
+
+#orlandoSwampDiv {
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+
+#orlandoSwamp {
+    height: 90%;
+    width: 90%;
+    align-items: center;
+}
+
+
+
+#blurb1 {
+    text-align: center;
+    padding: 40px;
+    border-style: solid;
+    width: 33.333%;
+    
+}
+
+#bigtext{
+    
+}
+
+#littletext {
+
+}
+
+
+
+/*third row of stuff */
+
+#row3div {
+    text-align: center;
+    width: 90%;
+    border-style: solid;
+    margin: 40px;
+}
+
+#minidiv1 {
+    float: left;
+ 
+}
+
+#minidiv2 {
+    float: center;
+   
+}
+
+#minidiv3 {
+    float: right;
+
+}
