@@ -19,7 +19,7 @@
 
 
 
-#blurb1 {
+#blurb {
     text-align: center;
     padding: 40px;
     border-style: solid;
@@ -40,23 +40,65 @@
 /*third row of stuff */
 
 #row3div {
+    border-style: solid;
     text-align: center;
     width: 90%;
-    border-style: solid;
+    align-content: center;
+    padding: 40px;
+}
+
+
+#bonfire1 {
+    height: 20%;
+    width: 20%;
+    float: left;
+}
+
+#bonfire2 {
+    height: 20%;
+    width: 20%;
+    float: right;
+}
+
+
+#bonfire3 {
+    height: 20%;
+    width: 20%;
+    float: center;
+} 
+
+
+#idk {
+
+    text-align: center;
+   
+    float: left;
+
+}
+
+#mg {
+    height: 30%;
+    width: 30%;
+    border-radius: 50%;
+    float: left;
     margin: 40px;
 }
 
-#minidiv1 {
-    float: left;
- 
-}
 
-#minidiv2 {
-    float: center;
-   
-}
-
-#minidiv3 {
+#mgtext {
+    width: 30%;
     float: right;
 
+}
+
+
+
+
+
+
+#sunsetreflection {
+    opacity: 0.5;
+    height: 101%;
+    width: 101%;
+    padding: 40px,0px,40px,0px;
 }
