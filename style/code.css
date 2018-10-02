@@ -15,7 +15,6 @@ font-family: 'Goudy Bookletter 1911', serif; */
 #navbar {
     text-align: center;
     vertical-align: middle;
-    
 }
 
 #a {
@@ -30,4 +29,54 @@ font-family: 'Goudy Bookletter 1911', serif; */
 #logo {
     height: 7%;
     width: 7%;
+}
+
+#apple {
+    width: 90%;
+    align: center;
+
+}
+
+
+#c1 {
+    float: left;
+    margin: 11.2px;
+}
+#c2 {
+    float: left;
+    margin: 11.2px;
+}
+#c3 {
+    float: right;
+    margin: 11.2px;
+}
+#c4 {
+    float: right;
+    margin: 11.2px;
+}
+
+
+#card {
+    border-style: solid;
+    border-color: black;
+}
+
+#img {
+    height: 60%;
+    width: 60%;
+    border-radius: 50%;
+    float: center;
+}
+
+#heading {
+    font-family: 'Playfair Display', serif;
+    size: 200px;
+}
+
+#text {
+    font-family: 'Playfair Display', serif;
+}
+
+#button {
+    align: center;
 }
