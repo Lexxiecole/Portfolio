@@ -81,9 +81,15 @@ font-family: 'Goudy Bookletter 1911', serif; */
 #button {
     align: center;
     size: 25px;
+    margin:10px;
 }
 
 #icons {
     width: 90%;
     text-align: center;
+    
+}
+
+#giticon {
+    
 }
