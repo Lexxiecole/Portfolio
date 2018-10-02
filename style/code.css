@@ -1,0 +1,33 @@
+/*
+font-family: 'Amiri', serif;
+font-family: 'Chonburi', cursive;
+font-family: 'Josefin Slab', serif;
+font-family: 'Katibeh', cursive;
+font-family: 'Yeseva One', cursive;
+font-family: 'Playfair Display', serif;
+font-family: 'EB Garamond', serif;
+font-family: 'Old Standard TT', serif;
+font-family: 'Scheherazade', serif;
+font-family: 'Goudy Bookletter 1911', serif; */
+
+
+
+#navbar {
+    text-align: center;
+    vertical-align: middle;
+    
+}
+
+#a {
+    font-family: 'Goudy Bookletter 1911', serif;
+    padding: 100px;
+    vertical-align: center;
+    color:#2c4764;
+    font-size: 30px;
+}
+
+
+#logo {
+    height: 7%;
+    width: 7%;
+}
