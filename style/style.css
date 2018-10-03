@@ -25,15 +25,12 @@ font-family: 'Goudy Bookletter 1911', serif; */
     color:#2c4764;
     font-size: 30px;
 }
-
-
 #logo {
     height: 7%;
     width: 7%;
 }
 
-
-
+ /* ----- */
 #orlandoSwampDiv {
     height: 100%;
     width: 100%;
@@ -45,14 +42,13 @@ font-family: 'Goudy Bookletter 1911', serif; */
     align-items: center;
 }
 
-
-
+ /* ----- */
 #blurb {
     text-align: center;
     padding: 40px;
     border-style: solid;
     width: 33.333%;
-    
+    margin: auto;
 }
 #bigtext{
     font-family: 'Chonburi', cursive;
@@ -60,8 +56,6 @@ font-family: 'Goudy Bookletter 1911', serif; */
 #littletext {
     font-family: 'Goudy Bookletter 1911', serif;
 }
-
-
 
 /*third row of stuff */
 
@@ -71,22 +65,18 @@ font-family: 'Goudy Bookletter 1911', serif; */
     width: 90%;
     align-content: center;
     padding: 40px;
+    margin: auto;
 }
-
-
 #bonfire1 {
     height: 20%;
     width: 20%;
     float: left;
 }
-
 #bonfire2 {
     height: 20%;
     width: 20%;
     float: right;
 }
-
-
 #bonfire3 {
     height: 20%;
     width: 20%;
@@ -102,6 +92,10 @@ font-family: 'Goudy Bookletter 1911', serif; */
 
 }
 
+ /* ----- */
+#ya {
+    margin: auto;
+}
 #mg {
     height: 30%;
     width: 30%;
@@ -110,7 +104,6 @@ font-family: 'Goudy Bookletter 1911', serif; */
     margin: 40px;
 }
 
-
 #mgtext {
     width: 30%;
     float: right;
@@ -118,13 +111,12 @@ font-family: 'Goudy Bookletter 1911', serif; */
     font-family: 'Goudy Bookletter 1911', serif;
 }
 
+
+ /* ----- */
 #contacttext {
    color: #334e69;
    font-family: 'Yeseva One', cursive;
 }
-
-
-
 
 #sunsetreflection {
     opacity: 0.5;
@@ -136,12 +128,16 @@ font-family: 'Goudy Bookletter 1911', serif; */
 #form {
     font-family: 'Goudy Bookletter 1911', serif;
     color: #334e69;
+    font-size: 40px;
 }
 
 #ace {
     font-family: 'Goudy Bookletter 1911', serif;
     color: #334e69;
+    font-size: 20px;
 }
+
+ /* ----- */
 
 #bottomdiv {
 

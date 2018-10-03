@@ -34,7 +34,7 @@ font-family: 'Goudy Bookletter 1911', serif; */
 #apple {
     width: 90%;
     text-align: center;
-    content: center;
+    margin: auto;
 }
 
 
@@ -86,7 +86,7 @@ font-family: 'Goudy Bookletter 1911', serif; */
 
 #icons {
     width: 90%;
-    text-align: center;
+    margin: auto;
     
 }
 
