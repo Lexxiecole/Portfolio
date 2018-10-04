@@ -207,7 +207,70 @@ font-family: 'Goudy Bookletter 1911', serif; */
 #submit {
     text-align: center;
 }
- /* ----- */
+
+
+/* code page */
+ 
+#apple {
+    width: 90%;
+    text-align: center;
+    margin: auto;
+}
+
+
+#c1 {
+    float: left;
+    margin: 11.2px;
+}
+#c2 {
+    float: left;
+    margin: 11.2px;
+}
+#c3 {
+    float: right;
+    margin: 11.2px;
+}
+#c4 {
+    float: right;
+    margin: 11.2px;
+}
+
+
+#card {
+    border-style: solid;
+    border-color: black;
+}
+
+#img {
+    height: 60%;
+    width: 60%;
+    border-radius: 50%;
+    float: center;
+    margin: 5px;
+}
+
+#heading {
+    font-family: 'Playfair Display', serif;
+    size: 200px;
+}
+
+#text {
+    font-family: 'Playfair Display', serif;
+}
+
+#codeviewbtn {
+    align: center;
+    size: 25px;
+    margin:10px;
+}
+
+/* ------ */
+
+
+
+
+
+/* ----- */
 
 #icons {
     text-align: center;
