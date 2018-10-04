@@ -68,20 +68,32 @@ font-family: 'Goudy Bookletter 1911', serif; */
     padding: 40px;
     margin: auto;
 }
-#bonfire1 {
-    height: 20%;
-    width: 20%;
+
+#writingSample {
     float: left;
 }
+
+#bonfire1 {
+    height: 50%;
+    width: 50%;
+}
+
+#bPlanSample {
+    float: center;
+}
+
 #bonfire2 {
-    height: 20%;
-    width: 20%;
+    height: 50%;
+    width: 50%;
+}
+
+#codeSample {
     float: right;
 }
+
 #bonfire3 {
-    height: 20%;
-    width: 20%;
-    float: center;
+    height: 50%;
+    width: 50%;
 } 
 
 
@@ -121,8 +133,6 @@ font-family: 'Goudy Bookletter 1911', serif; */
     opacity: 0.5;
     height: 101%;
     width: 101%;
-    padding: 40px,0px,40px,0px;
-    padding: 40px, 0px, 40px, 0px;
 }
 
 #form {
